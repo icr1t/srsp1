@@ -1,4 +1,5 @@
 import pandas as pd
+import streamlit as st
 
 data_kz = pd.read_excel('kz_2014.xlsx')
 data_kz1 = pd.read_excel('kz_2015.xlsx')
